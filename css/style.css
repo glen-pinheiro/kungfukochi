@@ -316,7 +316,7 @@ h3.title {
 	-moz-border-radius: 50%;
 	-o-border-radius: 50%;
 	-ms-border-radius: 50%;
-	background-color: #5BD982;
+	background-color: #927430;
 	transition:.5s all;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all;
@@ -356,7 +356,7 @@ h3.title {
     border: 1px solid #fff;
 }
 .view1.view-first h5 {
-  color: #5BD982;
+  color: #927430;
   font-size: 1.4em;
   letter-spacing: 1px;
   margin: 0 0 1em 0;
@@ -605,12 +605,12 @@ h2.resp-accordion {
     -webkit-appearance: none;
 }
 .contact-right input[type="submit"] {
-    border: 1px solid #5BD982;
+    border: 1px solid #927430;
     padding: .5em 0;
     width: 22%;
     margin-top: 0.8em;
     font-size: 1.1em;
-    color: #5BD982;
+    color: #927430;
     letter-spacing: 1px;
     outline: none;
     background-color: #fff;
@@ -622,7 +622,7 @@ h2.resp-accordion {
     -webkit-appearance: none;
 }
 .contact-right input[type="submit"]:hover{
-	background-color:#5BD982;
+	background-color:#927430;
 	color:#fff;
 }
 /*--footer--*/
@@ -636,7 +636,7 @@ h2.resp-accordion {
 	font-size: 1em;
 }
 .footer p a {
-	color: #5BD982;
+	color: #927430;
 	margin-left: 2px;
 }
 .footer p a:hover{
@@ -883,12 +883,12 @@ h3.title {
 }
 @media(max-width:767px){
 button.navbar-toggle {
-    border-color: #5BD982 !important;
+    border-color: #927430 !important;
     margin: 0 1em 1em 0;
-    background-color: #5BD982;
+    background-color: #927430;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #5BD982;
+    background-color: #927430;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
